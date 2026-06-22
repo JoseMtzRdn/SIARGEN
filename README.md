@@ -1,4 +1,4 @@
-# SIARGEN - Sistema General de Archivo
+# SIARGEN - Sistema de Archivo General
 
 Plataforma de gestión documental y control archivístico para el Instituto de Salud del Estado de México (ISEM)
 
